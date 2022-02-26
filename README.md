@@ -7,8 +7,8 @@
 ## Practicas.
 
 - [Toma de requerimientos](https://innovaccion-my.sharepoint.com/:w:/g/personal/launchx03445_innovaccion_mx/EVCaTE7AtS1Lo3JAi3MPjmgBjsxygfwUnFlLV6KUhBoEoQ?e=0l9yu4)
-- Crea tu buyer persona
-- Publico objetivo
+- [Crea tu buyer persona](https://miro.com/welcomeonboard/QlJ0cW54ZVlWWVAxcGo3UFdvQUJxWHNvSTlQaTFSRFBEQlUxRkFLWUNhbEhJRWY4SzBoOGtRQVAxb2xUaUEyYnwzNDU4NzY0NTE5MzIxNDg3NDAz?invite_link_id=601978640658)
+- [Publico objetivo]()
 - [Crea tu primer Wireframe UX](https://www.figma.com/file/ESd7uFJaPfjUebSyiwzJrm/Abogabot?node-id=0%3A1)
 - [Ahora el UI](https://www.figma.com/file/ESd7uFJaPfjUebSyiwzJrm/Abogabot?node-id=0%3A1)
 
