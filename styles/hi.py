@@ -10,3 +10,9 @@ def formulario():
     print("Apellido: ", apellido)
     print("Edad: ", edad)
 
+
+
+
+### Ejecucion del programa
+formulario()
+
